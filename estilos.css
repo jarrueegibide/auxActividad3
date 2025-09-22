@@ -1,0 +1,39 @@
+/* estilos.css */
+
+/* Estilo general del cuerpo */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9; /* gris muy claro */
+    color: #333;
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+}
+
+/* Estilo del título */
+h1 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+/* Estilo de los párrafos */
+p {
+    color: #555;
+    font-size: 18px;
+}
+
+/* Estilo de botones */
+button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Efecto al pasar el mouse sobre el botón */
+button:hover {
+    background-color: #2980b9;
+}
